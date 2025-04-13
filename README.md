@@ -1,4 +1,4 @@
-![Logo](Logo.png)
+                                                                                                                                                                                                                                           ![Logo](Logo.png)
 
 سامانه خرید و فروش کالای دست دوم - Secondhand Market
 
@@ -34,7 +34,7 @@
 
 🔗 برد مدیریت پروژه (Project Board):
 
-[GitHub Projects - مدیریت وظایف](https://github.com/users/alireza-zare2553/projects/3)
+[GitHub Projects - مدیریت وظایف](https://github.com/orgs/ReCycleMarket/projects/1)
 
 وضعیت فعلی توسعه
 
