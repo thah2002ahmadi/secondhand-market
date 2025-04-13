@@ -34,7 +34,7 @@
 
 🔗 برد مدیریت پروژه (Project Board):
 
-[GitHub Projects - مدیریت وظایف](https://github.com/users/alireza-zare2553/projects/3)
+[GitHub Projects - مدیریت وظایف](https://github.com/orgs/ReCycleMarket/projects/1)
 
 وضعیت فعلی توسعه
 
